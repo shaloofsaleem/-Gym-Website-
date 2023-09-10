@@ -1,0 +1,23 @@
+.start_wrapper{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 3rem;
+    align-items: center;
+}
+.start_img,.start_contant{
+    width: 50%;
+}
+.start_img img{
+    width: 100%;
+}
+.start_contant h2{
+    font-size: 2rem;
+    padding-bottom: 20px;
+
+}
+.start_contant p{
+    color: var(--heading-color);
+    font-size: 1.1rem;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
