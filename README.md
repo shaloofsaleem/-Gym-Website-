@@ -1,5 +1,5 @@
 # Gym Website Design 
-A simple Netflix Clone made using [React.js](https://react.dev/learn) ⚡
+A simple  made using [React.js](https://react.dev/learn) ⚡
 
 Currently, I have implemented the basic UI with media details fetch functionality.
 
